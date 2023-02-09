@@ -1,0 +1,16 @@
+id: IA92255FE
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:25:53.628410
+last_modified: 2023-02-10 00:25:53.628553
+source_metadata:
+  title: 'Asaṅga: Triśatikāyāḥ Prajñāpāramitāyāḥ Kārikāsaptatiḥ'
+  language: en
+bases:
+  '2404':
+    base_file: 2404.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
